@@ -1,3 +1,4 @@
 --- Bienvenidos al primer repo del Grupo 3 ---
 
-Por javor agrega tu nombre o nickname aqui abajo:
+Por javor agrega tu nombre o nickname y un saludo
+a modo de firma aqui abajo:
